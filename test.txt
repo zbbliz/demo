@@ -1,3 +1,7 @@
 Hello Zbb
+
 git reset --hard commit_id 恢复到某个commit
 git reset --hard id
+
+git push origin -->将本地内容同步到云端
+git pull -->从云端拉取内容
