@@ -1,1 +1,3 @@
 Hello Zbb
+git reset --hard commit_id 恢复到某个commit
+git reset --hard id
