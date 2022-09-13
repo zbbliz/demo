@@ -5,3 +5,12 @@ git reset --hard id
 
 git push origin -->将本地内容同步到云端
 git pull -->从云端拉取内容
+
+new_feature(分支):
+main是主分支
+git branch -->查看当前分支
+git checkout -b name -->创建分支
+git checkout  分支名 -->去到分支
+git merge name(分支名) -->修改的分支代码与主分支合并(当前必须在主分支)
+git branch -D name(分支名) -->删除分支
+
